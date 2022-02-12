@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863193220058",
+    "project_id": "mad-weather-8ca43",
+    "storage_bucket": "mad-weather-8ca43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863193220058:android:988ee9f25fa411e806b6e3",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863193220058-6mevki81mshgr1fjv57p6i883iop4is9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxBfdf3fmxk1aHBq3rluTr03CexJ3DDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863193220058-6mevki81mshgr1fjv57p6i883iop4is9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
